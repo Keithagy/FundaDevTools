@@ -1,3 +1,6 @@
+// simple hello-world server
+// comment 1
+// comment 2
 const http = require("http");
 
 const host = "localhost";
